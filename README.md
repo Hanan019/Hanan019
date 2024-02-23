@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Hanan019
-- 👀 I’m interested in exploring new venture of Salesforce.com and its corresponding Products
-- 🌱 I’m currently learning opitimization of Lightning Web Component 
-- 💞️ I’m looking to collaborate on Customize Salesforcre Platofrm Org for Croporate Uses
-- 📫 How to reach me email address :  hananmaqbol@gmail.com
+👋 Salesforce Developer @HawkLogix Pakistan | Trailblazer | Apex Enthusiast | Lightning Wizard 🌩️
 
-<!---
-Hanan019/Hanan019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Crafting innovative solutions with Salesforce technologies to empower businesses and streamline processes.
+
+📚 Constantly learning and exploring new ways to leverage Salesforce's powerful platform features.
+
+💡 Passionate about creating scalable and efficient Apex code, and mastering the art of declarative development with Lightning components.
+
+🌟 Let's connect, collaborate, and trailblaze together to build the future of cloud-based CRM solutions!
